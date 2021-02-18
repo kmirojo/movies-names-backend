@@ -1,0 +1,3 @@
+interface IVoteMovieData {
+    id: string
+}
